@@ -1,0 +1,24 @@
+{
+"products:"[
+{"id":1,"name":"Heron, green","category":"Turquoise"},
+{"id":2,"name":"Crowned eagle","category":"Violet"},
+{"id":3,"name":"Indian red admiral","category":"Violet"},
+{"id":4,"name":"Serval","category":"Khaki"},
+{"id":5,"name":"Monkey, bleeding heart","category":"Crimson"},
+{"id":6,"name":"Bird, secretary","category":"Turquoise"},
+{"id":7,"name":"Grizzly bear","category":"Red"},
+{"id":8,"name":"Macaque, bonnet","category":"Violet"},
+{"id":9,"name":"Wallaby, dama","category":"Crimson"},
+{"id":10,"name":"Blue duck","category":"Puce"},
+{"id":11,"name":"Antelope ground squirrel","category":"Mauv"},
+{"id":12,"name":"Quail, gambel's","category":"Pink"},
+{"id":13,"name":"Woodpecker, downy","category":"Yellow"},
+{"id":14,"name":"Squirrel, smith's bush","category":"Aquamarine"},
+{"id":15,"name":"Stork, saddle-billed","category":"Green"},
+{"id":16,"name":"American Virginia opossum","category":"Red"},
+{"id":17,"name":"Bald eagle","category":"Puce"},
+{"id":18,"name":"Grey heron","category":"Yellow"},
+{"id":19,"name":"Blackbird, red-winged","category":"Puce"},
+{"id":20,"name":"Stork, saddle-billed","category":"Maroon"}
+]
+}
